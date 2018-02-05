@@ -1,0 +1,21 @@
+////////////////////////////////////////////////////////////////////////////////
+// PL/SQL Developer Plug-In                                                   //
+// Copyright 2004-2018 Victor Shibaev, Moscow                                 //
+// victorious.soft@gmail.com                                                  //
+// github.com/victoriousya                                                    //
+////////////////////////////////////////////////////////////////////////////////
+// Provide Borlad IDE Style Bookmarks					      //
+// Using hot keys							      //
+// Ctrl+Shift+#  - set bookmark						      //
+// Ctrl+# - goto bookmark	                                              //
+// Min PLS/SQL Developer Verion 7.1.1                                         //
+//									      //
+//                                                                            //
+////////////////////////////////////////////////////////////////////////////////
+// Revision History:                                                          //
+// Version | Who | What                                                       //
+//  v1.0   | VVS | Initial version...                                         //
+//  v1.0.1 | VVS | FIXED bug with other symbols...                            //
+//  v1.0.2 | VVS | FIXED Issue with ver 7.1.1 of PlSQL Dev...                 //
+//  v1.0.3 | VVS | Restored normal behaviour of PlSQL Dev over 7.1.1          //
+////////////////////////////////////////////////////////////////////////////////
