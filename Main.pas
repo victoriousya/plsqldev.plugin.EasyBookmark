@@ -196,7 +196,7 @@ function About: PChar;
 begin
   Result:= Desc+
            #13'©2004-2018 VictoriousSoft Team'
-         + #13#13'Borlad IDE Style Bookmarks'
+         + #13#13'Borland IDE Style Bookmarks'
          + #13'Use'#9'Ctrl+Shift+# - set bookmark'
          + #13#9'Ctrl+# - goto bookmark'
          + #13'eMail to author: victorious.soft@gmail.ru'
